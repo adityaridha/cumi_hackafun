@@ -1,1 +1,1 @@
-print("dua")
+print("tiga")
